@@ -1,5 +1,5 @@
 # corversor-de-datas
-Recebe a data e hora atual e converte em br time dv time e epoch unix time
+Recebe a data e hora atual e converte em br time db time e epoch unix time
 
 ## Sobre
 
